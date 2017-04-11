@@ -1,0 +1,74 @@
+<svg height="1134" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1134" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+<tspan x="10" y="42">&gt; npmtest-reflux@0.0.1 test /home/travis/build/npmtest/node-npmtest-reflux</tspan>
+<tspan x="10" y="58">&gt; (set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)</tspan>
+<tspan x="10" y="74"></tspan>
+<tspan x="10" y="90"></tspan>
+<tspan x="10" y="106">[MODE_BUILD=npmTest] - 2017-04-11T22:33:57Z - npm-testing /home/travis/build/npmtest/node-npmtes\</tspan>
+<tspan x="10" y="122">t-reflux</tspan>
+<tspan x="10" y="138"></tspan>
+<tspan x="10" y="154">merging file:///home/travis/build/npmtest/node-npmtest-reflux/tmp/build/test-report.json to test\</tspan>
+<tspan x="10" y="170">-report</tspan>
+<tspan x="10" y="186">&gt; server listening on http-port 55791</tspan>
+<tspan x="10" y="202">[node test-case 1 of 7 passed] - testCase_buildApidoc_default</tspan>
+<tspan x="10" y="218">[node test-case 2 of 7 passed] - testCase_buildLib_default</tspan>
+<tspan x="10" y="234">[node test-case 3 of 7 passed] - testCase_buildReadme_default</tspan>
+<tspan x="10" y="250">[node test-case 4 of 7 passed] - testCase_buildTest_default</tspan>
+<tspan x="10" y="266"></tspan>
+<tspan x="10" y="282">browserTest - created electron entry-page /home/travis/build/npmtest/node-npmtest-reflux/tmp/ele\</tspan>
+<tspan x="10" y="298">ctron.15b5f26f25a0.3f5e1e2da1b14.html</tspan>
+<tspan x="10" y="314"></tspan>
+<tspan x="10" y="330">[node test-case 5 of 7 passed] - testCase_buildCustomOrg_default</tspan>
+<tspan x="10" y="346">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="362">merging file:///home/travis/build/npmtest/node-npmtest-reflux/tmp/build/test-report.json to test\</tspan>
+<tspan x="10" y="378">-report</tspan>
+<tspan x="10" y="394">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+<tspan x="10" y="410">[5114:0411/223400:WARNING:audio_manager.cc(314)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="426">[5114:0411/223400:WARNING:audio_manager.cc(275)] Multiple instances of AudioManager detected</tspan>
+<tspan x="10" y="442">[5132:0411/223400:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple threads \</tspan>
+<tspan x="10" y="458">in process gpu-process. </tspan>
+<tspan x="10" y="474">[5114:0411/223400:ERROR:browser_gpu_channel_host_factory.cc(131)] Failed to create channel.</tspan>
+<tspan x="10" y="490"></tspan>
+<tspan x="10" y="506">browserTest - opened url http://127.0.0.1:55791?modeTest=1</tspan>
+<tspan x="10" y="522"></tspan>
+<tspan x="10" y="538">&gt; server listening on http-port 61676</tspan>
+<tspan x="10" y="554">[node test-case 6 of 7 passed] - testCase_buildApp_default</tspan>
+<tspan x="10" y="570"></tspan>
+<tspan x="10" y="586">browserTest - created screenCapture file:///home/travis/build/npmtest/node-npmtest-reflux/tmp/bu\</tspan>
+<tspan x="10" y="602">ild/screenCapture.npmTest.browser.%2F.png</tspan>
+<tspan x="10" y="618"></tspan>
+<tspan x="10" y="634">browserTest - created screenCapture file:///home/travis/build/npmtest/node-npmtest-reflux/tmp/bu\</tspan>
+<tspan x="10" y="650">ild/screenCapture.npmTest.browser.%2F.html</tspan>
+<tspan x="10" y="666"></tspan>
+<tspan x="10" y="682">browserTest - exit-code 0 - http://127.0.0.1:55791?modeTest=1</tspan>
+<tspan x="10" y="698"></tspan>
+<tspan x="10" y="714"></tspan>
+<tspan x="10" y="730">browserTest - merging test-report from /home/travis/build/npmtest/node-npmtest-reflux/tmp/test-r\</tspan>
+<tspan x="10" y="746">eport.npmTest.browser.%2F.json</tspan>
+<tspan x="10" y="762"></tspan>
+<tspan x="10" y="778">[node test-case 7 of 7 passed] - testCase_webpage_default</tspan>
+<tspan x="10" y="794">merging file:///home/travis/build/npmtest/node-npmtest-reflux/tmp/build/test-report.json to test\</tspan>
+<tspan x="10" y="810">-report</tspan>
+<tspan x="10" y="826"></tspan>
+<tspan x="10" y="842">-------------------------------------------------------</tspan>
+<tspan x="10" y="858">| test-report - buildCustomOrg - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.3\</tspan>
+<tspan x="10" y="874">6 (KHTML, like Gecko) Chrome/53.0.2785.143 Electron/1.4.15 Safari/537.36 - 2017-04-11T22:33:10.5\</tspan>
+<tspan x="10" y="890">67Z</tspan>
+<tspan x="10" y="906">|   65506 ms            0 failed        7 passed      |</tspan>
+<tspan x="10" y="922">-------------------------------------------------------</tspan>
+<tspan x="10" y="938">| test-report - buildCustomOrg - node - linux v6.10.2 - 2017-04-11T22:33:08.386Z</tspan>
+<tspan x="10" y="954">|   16500 ms            0 failed        7 passed      |</tspan>
+<tspan x="10" y="970">-------------------------------------------------------</tspan>
+<tspan x="10" y="986"></tspan>
+<tspan x="10" y="1002">created test-report file:///home/travis/build/npmtest/node-npmtest-reflux/tmp/build/test-report.\</tspan>
+<tspan x="10" y="1018">html</tspan>
+<tspan x="10" y="1034"></tspan>
+<tspan x="10" y="1050"></tspan>
+<tspan x="10" y="1066">npmTest - 0 failed tests</tspan>
+<tspan x="10" y="1082"></tspan>
+<tspan x="10" y="1098"></tspan>
+<tspan x="10" y="1114">[MODE_BUILD=npmTest] - 2017-04-11T22:34:17Z - EXIT_CODE - 0</tspan>
+</text>
+</svg>
