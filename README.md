@@ -1,7 +1,10 @@
-# test coverage for  [reflux (v6.4.1)](https://github.com/reflux/refluxjs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-reflux.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-reflux) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-reflux.svg)](https://travis-ci.org/npmtest/node-npmtest-reflux)
+# npmtest-reflux
+
+#### test coverage for  [reflux (v6.4.1)](https://github.com/reflux/refluxjs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-reflux.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-reflux) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-reflux.svg)](https://travis-ci.org/npmtest/node-npmtest-reflux)
+
 #### A simple library for uni-directional dataflow application architecture inspired by ReactJS Flux
 
-[![NPM](https://nodei.co/npm/reflux.png?downloads=true)](https://www.npmjs.com/package/reflux)
+[![NPM](https://nodei.co/npm/reflux.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/reflux)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-reflux/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-reflux/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-reflux/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-reflux/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-reflux/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-reflux/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-reflux/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-reflux/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-reflux/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-reflux/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-reflux%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-reflux/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-reflux/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-reflux/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-reflux/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-reflux%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-reflux/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-reflux/build/test-report.html](https://npmtest.github.io/node-npmtest-reflux/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-reflux/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-reflux/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-reflux/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-reflux/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-reflux/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-reflux/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-reflux/build/screenCapture.npmPackageListing.svg)
 
@@ -85,16 +94,13 @@
     "main": "src/index.js",
     "maintainers": [
         {
-            "name": "bryangrezeszak",
-            "email": "bryangrezeszak@mail.com"
+            "name": "bryangrezeszak"
         },
         {
-            "name": "devinivy",
-            "email": "devin@bigroomstudios.com"
+            "name": "devinivy"
         },
         {
-            "name": "spoike",
-            "email": "mishakun+npm@gmail.com"
+            "name": "spoike"
         }
     ],
     "name": "reflux",
@@ -102,7 +108,6 @@
     "peerDependencies": {
         "react": "^15.0.2"
     },
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/reflux/refluxjs.git"
